@@ -12,7 +12,7 @@ header.header{
     
 }
 section.top-page{
-    background: url('../photo/deuxieme\ banger.gif');
+    background: url('deuxieme\ banger.gif');
     background-size: cover;
     height: 80vh;
     padding: 25px;
@@ -103,13 +103,13 @@ nav.nav li a{
     position: relative;
 }
 .img1{
-    background-image: url(../photo/jeu\ en\ dev.png) 
+    background-image: url(/jeu\ en\ dev.png) 
 }
 .img2{
-     background-image: url(../photo/histoire\ épique.avif)
+     background-image: url(histoire\ épique.avif)
 }
 .img3{
-      background-image: url(../photo/gameplay\ fun\ et\ amusant.jpg)
+      background-image: url(gameplay\ fun\ et\ amusant.jpg)
 }
 .cara-details{
     position: absolute;
